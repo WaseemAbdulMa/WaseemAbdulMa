@@ -54,7 +54,7 @@ Gained in-depth knowledge of Python programming, web development using Django, a
       <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
         <img src="https://img.freepik.com/free-vector/hiring-agency-candidates-job-interview_1262-18940.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1726790400&semt=ais_hybrid" alt="Office Employee Management" style="max-width: 100%; max-height: 100%;">
       </div>
-      <h3><a href="#">2. Office Employee Management</a></h3>
+      <h3><a href="https://github.com/WaseemAbdulMa/Employee_Management/blob/main/README.md">2. Office Employee Management</a></h3>
       <p style="font-size: smaller;">An application for managing employee records, tasks, and monitoring performance.</p>
       <p style="font-size: smaller;">Key Skills: Python, Django, MySQL, RESTful APIs</p>
     </td>
