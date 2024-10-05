@@ -21,6 +21,8 @@ Motivated individual seeking a challenging position as a Python Developer. With 
 
 - **Languages**: Python
 - **Databases**: SQL, SQLite3
+- **FrameWork**: Django
+- **WebDevelopment**: HTML,CSS and Bootstrap
 - **Tools**: GIT,VScode,PyCharm
 - **Techniques**: RESTful API development, Object-Oriented Programming, Debugging
 - **Cloud Services**: Familiarity with AWS and Azure
