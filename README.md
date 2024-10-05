@@ -64,7 +64,7 @@ Gained in-depth knowledge of Python programming, web development using Django, a
       <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
         <img src="https://www.shutterstock.com/image-photo/doctor-works-management-mechanism-medical-260nw-1549990442.jpg" alt="Hospital Management System" style="max-width: 100%; max-height: 100%;">
       </div>
-      <h3><a href="#">3. Hospital Management System</a></h3>
+      <h3><a href="https://github.com/WaseemAbdulMa/hospital-management/blob/master/README.md">3. Hospital Management System</a></h3>
       <p style="font-size: smaller;">A system for managing patient records, appointments, and medical history efficiently.</p>
       <p style="font-size: smaller;">Key Skills: Python, Django, MySQL, Data Management</p>
     </td>
