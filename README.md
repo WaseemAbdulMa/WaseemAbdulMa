@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📞 +91 7780730011 ⋄ Nalgonda-508374 ⋄ Telangana, India <br>
+  📞 +91 7780730011 ⋄ Hyderabad-500059 ⋄ Telangana, India <br>
   📧 abdulwaseem9777@gmail.com ⋄ <a href="https://www.linkedin.com/in/waseemabdul/">LinkedIn</a> ⋄ <a href="https://github.com/WaseemAbdulMa?tab=repositories">GitHub</a>
 </p>
 
