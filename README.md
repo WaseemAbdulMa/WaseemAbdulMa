@@ -46,7 +46,7 @@ Gained in-depth knowledge of Python programming, web development using Django, a
       <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
         <img src="https://miro.medium.com/v2/resize:fit:730/0*SEdGTbPR8hfkTWR2.jpg" alt="Portfolio" style="max-width: 100%; max-height: 100%;">
       </div>
-      <h3><a href="#">1. Portfolio</a></h3>
+      <h3><a href="https://abdulwaseem.online/">1. Portfolio</a></h3>
       <p style="font-size: smaller;">A personal website showcasing my projects, skills, and experiences in web development.</p>
       <p style="font-size: smaller;">Key Skills: Python, Django, HTML, CSS, JavaScript</p>
     </td>
