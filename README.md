@@ -61,6 +61,7 @@ Gained in-depth knowledge of Python programming, web development using Django, a
       <p style="font-size: smaller;">Key Skills: Python, Django, MySQL, RESTful APIs</p>
     </td>
   </tr>
+  
   <tr>
     <td style="text-align: center; padding: 20px;">
       <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
@@ -70,8 +71,17 @@ Gained in-depth knowledge of Python programming, web development using Django, a
       <p style="font-size: smaller;">A system for managing patient records, appointments, and medical history efficiently.</p>
       <p style="font-size: smaller;">Key Skills: Python, Django, MySQL, Data Management</p>
     </td>
+    <td style="text-align: center; padding: 20px;">
+      <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
+        <img src="https://static.jobscan.co/blog/uploads/job-tracker-facebook.jpg" alt="Job Tracker" style="max-width: 100%; max-height: 100%;">
+      </div>
+      <h3><a href="https://github.com/WaseemAbdulMa/job-tracker/blob/main/README.md">4. Job Tracker</a></h3>
+      <p style="font-size: smaller;">A web-based application to track job applications and interview questions.</p>
+      <p style="font-size: smaller;">Key Skills: Python, Django, MySQL, User Authentication</p>
+    </td>
   </tr>
 </table>
+
 
 ## EDUCATION
 
